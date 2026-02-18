@@ -8,4 +8,4 @@ sudo systemctl enable nginx
 
 sudo systemctl status nginx
 
-
+echo "NGINX installed"
